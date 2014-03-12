@@ -1,0 +1,5 @@
+# Logfile created on 2014-03-12 11:16:37 -0700 by logger.rb/41954
+I, [2014-03-12T11:16:37.365182 #48175]  INFO -- : 0:  rack (1.5.2) from /Users/masononeal/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-03-12T11:16:37.365587 #48175]  INFO -- : 0:  tilt (1.4.1) from /Users/masononeal/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-03-12T11:16:41.145367 #48175]  INFO -- : 0:  sinatra (1.1.0) from /Users/masononeal/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.1.0.gemspec
+I, [2014-03-12T11:16:41.145712 #48175]  INFO -- : 0:  bundler (1.5.1) from /Users/masononeal/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
